@@ -1,4 +1,4 @@
-# Cureify MVP - Telemedicine Portal
+# Cureify - Telemedicine Portal
 
 A modern telemedicine platform built with React, Firebase, and TypeScript. This MVP demonstrates core telemedicine features including video consultations, appointment booking, secure chat, and AI-powered health assistance.
 
