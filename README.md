@@ -51,10 +51,6 @@ npm install
 
 ### 3. Environment Configuration
 
-```bash
-cp .env.example .env
-```
-
 Fill in your Firebase configuration in `.env`:
 
 ```env
